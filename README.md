@@ -1,2 +1,2 @@
-# ML_Basic_Knowledge
+# ML_Basic
 ML basic knowledge for beginners
