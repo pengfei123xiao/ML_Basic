@@ -1,2 +1,2 @@
-# ML_Simple-Project
-8 fun machine learning projects for beginners
+# ML_Basic_Knowledge
+ML basic knowledge for beginners
