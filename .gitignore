@@ -7,4 +7,4 @@
 venv
 *.csv
 *.json
-
+.ipynb_checkpoints
